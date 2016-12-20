@@ -1,2 +1,2 @@
 # Othello
-A command line interface-based game board written in C++
+A command line interface-based game board written in C++.
